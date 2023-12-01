@@ -11,7 +11,9 @@ Preview Link:
 The preview link is not provided in the information. You may consider hosting the project on a server or using platforms like GitHub Pages, Netlify, or Vercel to generate a preview link for others to access.
 
 Link to Layout:
+
 [Layout](https://liza-strykharchuk.github.io/my_layout_MET_landing/).
 
 Link to the mockup:
+
 [Mockup](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET).
